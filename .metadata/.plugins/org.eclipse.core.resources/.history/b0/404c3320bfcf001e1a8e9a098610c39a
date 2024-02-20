@@ -16,8 +16,6 @@ public class Main_Person_Sort {
 		Person p3 = new Person("Ishan", 24,"Delhi",5.7,73);
 		Person p4 = new Person("Addi", 28,"Pune",6.0,75);
 		Person p5 = new Person("Abhi", 27,"Bengalore",5.6,60);
-		Person p6 = new Person("Abhilash", 20,"Bengalore",5.6,60);
-		Person p7 = new Person("Abhinav", 29,"Bengal",5.6,60);
 		
 		Person [] p = {p1,p2,p3,p4,p5}; 
 		bubbleSortPerson(p);

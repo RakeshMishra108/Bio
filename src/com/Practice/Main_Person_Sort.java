@@ -43,6 +43,7 @@ public class Main_Person_Sort {
 			 
 			for(int i=0;i<l-1;i++){
 				System.out.print(p[i] + "  ");
+				System.out.println();
 			}
 
 			 
